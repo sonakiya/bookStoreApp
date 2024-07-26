@@ -1,0 +1,96 @@
+[
+{
+  "id":1,
+  "name":"Poetry Book",
+  "tittle":"Untangled",
+  "price":0,
+  "category":"Free",
+  "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721497296~exp=1721500896~hmac=e017742f3ca0eb1366f51bb643f312dcc1082f5a9cba9a0eb014fc65b36b4e47&w=740"
+},
+{
+  "id":2,
+  "name":"Poetry Book",
+  "tittle":"The Silent Aubade.",
+  "price":0,
+  "category":"Free",
+  "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721497296~exp=1721500896~hmac=e017742f3ca0eb1366f51bb643f312dcc1082f5a9cba9a0eb014fc65b36b4e47&w=740"
+},
+{
+  "id":3,
+  "name":"Poetry Book",
+  "tittle":"Hauslon Ki udaan.",
+  "price":0,
+  "category":"Free",
+  "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721497296~exp=1721500896~hmac=e017742f3ca0eb1366f51bb643f312dcc1082f5a9cba9a0eb014fc65b36b4e47&w=740"
+}
+,
+{
+  "id":4,
+  "name":"Poetry Book",
+  "tittle":"Life Chapters.",
+  "price":0,
+  "category":"Free",
+  "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721497296~exp=1721500896~hmac=e017742f3ca0eb1366f51bb643f312dcc1082f5a9cba9a0eb014fc65b36b4e47&w=740"
+},
+{
+  "id":5,
+  "name":"Music Book",
+  "tittle":"SaReGaMA.",
+  "price":0,
+  "category":"Song",
+  "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721497296~exp=1721500896~hmac=e017742f3ca0eb1366f51bb643f312dcc1082f5a9cba9a0eb014fc65b36b4e47&w=740"
+},
+{
+  "id":6,
+  "name":"Comedy Book",
+  "tittle":"My Life My Rules",
+  "price":20,
+  "category":"Fun",
+  "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721497296~exp=1721500896~hmac=e017742f3ca0eb1366f51bb643f312dcc1082f5a9cba9a0eb014fc65b36b4e47&w=740"
+},
+{
+  "id":7,
+  "name":"Comedy Book",
+  "tittle":"Comedy",
+  "price":20,
+  "category":"Fun",
+  "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721497296~exp=1721500896~hmac=e017742f3ca0eb1366f51bb643f312dcc1082f5a9cba9a0eb014fc65b36b4e47&w=740"
+},
+{
+  "id":8,
+  "name":"Food Book",
+  "tittle":"Nisha MAdhulika Recipe ",
+  "price":200,
+  "category":"Food",
+  "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721497296~exp=1721500896~hmac=e017742f3ca0eb1366f51bb643f312dcc1082f5a9cba9a0eb014fc65b36b4e47&w=740"
+},
+{
+  "id":9,
+  "name":"Comedy Book",
+  "tittle":"Comedy.",
+  "price":20,
+  "category":"Fun",
+  "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721497296~exp=1721500896~hmac=e017742f3ca0eb1366f51bb643f312dcc1082f5a9cba9a0eb014fc65b36b4e47&w=740"
+},
+{
+  "id":10,
+  "name":"Comedy Book",
+  "tittle":"Comedy.",
+  "price":20,
+  "category":"Fun",
+  "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721497296~exp=1721500896~hmac=e017742f3ca0eb1366f51bb643f312dcc1082f5a9cba9a0eb014fc65b36b4e47&w=740"
+},
+{
+  "id":11,
+  "name":"Sport Book",
+  "tittle":"Sachin Tendulkar.",
+  "price":20,
+  "category":"Fun",
+  "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721497296~exp=1721500896~hmac=e017742f3ca0eb1366f51bb643f312dcc1082f5a9cba9a0eb014fc65b36b4e47&w=740"
+}
+
+
+
+
+
+]
